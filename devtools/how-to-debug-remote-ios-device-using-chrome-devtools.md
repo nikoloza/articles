@@ -55,3 +55,9 @@ copy the given url and paste it to your address bar.
 It should be like this:
 
     chrome-devtools://devtools/bundled/inspector.html?ws=localhost:{portNumber}/devtools/page/1
+
+
+**Note 2:**
+You'll probably need to enable `Settings > Safari > Advanced > Web Inspector`
+
+For the first time, it'll maybe throw an error that couldn't connect to Safari on device (even if you have `Web Inspector` enabled). Try to remove usb cable and plug it again.
