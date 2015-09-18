@@ -49,7 +49,7 @@ It will detect your available devices and list them on port `:9221`:
 - etc...
 
 **Note:**
-due the error that chrome does not allow opening the `chrome-devtools://` url
+due the error that Chrome does not allow opening the `chrome-devtools://` url
 from DOM, you may need to navigate there by clicking on `Open in new tab` or
 copy the given url and paste it to your address bar.
 
