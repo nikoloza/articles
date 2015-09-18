@@ -4,9 +4,7 @@
 
 After whole night surfing in internet, I've found Google's
 [repository](https://github.com/google/ios-webkit-debug-proxy) about **inspecting
-iOS devices on Chrome devtools**.
-
-If you're Chrome dependent developer like me, you'll love this.
+iOS devices on Chrome devtools**. If you're Chrome dependent developer like me, probably you'll love this.
 
 ===
 
