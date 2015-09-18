@@ -9,7 +9,7 @@ After whole night surfing in internet, I've found Google's
 
 ### Installing:
 
-Only thing you need is to install is `ios-webkit-debug-proxy` on your machine:
+Only thing you need to install is `ios-webkit-debug-proxy` via [homebrew](http://brew.sh/) or `apt-get`:
 
 Mac:
 
