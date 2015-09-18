@@ -1,6 +1,6 @@
-## How to inspect iOS device using Chrome devtools inspector.
+## How to debug remote iOS device using Chrome devtools.
 
-![How to inspect iOS device using Chrome devtools inspector](http://f.cl.ly/items/200p1d3H340B1Y3q2W3Z/Image%202015-09-18%20at%207.55.31%20AM.png)
+![How to debug remote iOS device using Chrome devtools](http://f.cl.ly/items/200p1d3H340B1Y3q2W3Z/Image%202015-09-18%20at%207.55.31%20AM.png)
 
 After whole night surfing in internet, I've found Google's
 [repository](https://github.com/google/ios-webkit-debug-proxy) about **inspecting
