@@ -17,12 +17,7 @@ Mac:
 
 Linux:
 
-    sudo apt-get install \
-        autoconf automake \
-        libusb-dev libusb-1.0-0-dev \
-        libplist-dev libplist++-dev \
-        usbmuxd libtool \
-        libimobiledevice-dev
+    sudo apt-get install autoconf automake libusb-dev libusb-1.0-0-dev libplist-dev libplist++-dev usbmuxd libtool libimobiledevice-dev
 
     git clone git@github.com:google/ios-webkit-debug-proxy.git
     cd ios-webkit-debug-proxy
