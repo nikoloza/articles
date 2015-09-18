@@ -43,7 +43,7 @@ then 45)
 
     ios_webkit_debug_proxy -f chrome-devtools://devtools/bundled/inspector.html
 
-It will detect your available devices on port `:9221`
+It will detect your available devices and list them on port `:9221`:
 
 - list of devices here [localhost:9221](http://localhost:9221)
 - fist connected device [localhost:9222](http://localhost:9222)
