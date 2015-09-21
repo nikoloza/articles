@@ -3,7 +3,7 @@
 ![How to debug remote iOS device using Chrome devtools](http://f.cl.ly/items/200p1d3H340B1Y3q2W3Z/Image%202015-09-18%20at%207.55.31%20AM.png)
 
 After whole night surfing in internet, I've found Google's
-[repository](https://github.com/google/ios-webkit-debug-proxy) about **proxying DevTools for iOS**. They offer `Safari web inspector`, but you can do it from Safari's developer tab anyways. So, if you're Chrome Devtools dependent developer like me, you need to follow this article.
+[repository](https://github.com/google/ios-webkit-debug-proxy) about **proxying DevTools for iOS**. They offer `Mobile Safari remote inspector`, you can do it from Safari's developer tab, but if you're **Chrome DevTools** dependent developer like me, you may need to follow this article.
 
 ===
 
