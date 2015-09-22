@@ -30,8 +30,7 @@ Linux:
 
 ### Running:
 
-Open Safari on your Simulator, or device first and run (for Chrome greater
-then 45)
+Open Safari on your Simulator, or device first and run (Chrome v45+ tested)
 
     ios_webkit_debug_proxy -f chrome-devtools://devtools/bundled/inspector.html
 
