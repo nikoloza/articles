@@ -5,6 +5,12 @@ code in very comfortable workspace.
 
 ===
 
+---
+
+======
+
+------
+
 #### Exclude node_modules out of Sublime Text 3 searches:
 It will skip searching files from folders from the following array (works for `CMD`+`t` as well)
 
