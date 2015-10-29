@@ -1,6 +1,6 @@
 ## Sublime goodies
 
-Introducing **Sublime Text 3** tips and goodies which always helps me to write
+Introducing **Sublime Text 3** tips and goodies which always help me to write
 code in very comfortable workspace.
 
 ===
