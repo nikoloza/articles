@@ -1,0 +1,76 @@
+## Sublime goodies
+
+Introducing **Sublime Text 3** tips and goodies which always helps me to write
+code in very comfortable workspace.
+
+#### Exclude node_modules out of Sublime Text 3 searches:
+It will skip searching files in the following list (works for `CMD`+`t` as well)
+
+    "folder_exclude_patterns": [
+      ".git",
+      "node_modules",
+      "bower_components",
+      "dest",
+      "build",
+      "docs"
+    ]
+
+
+#### Remove extra whitespaces on save:
+Keep it clean!
+
+    "trim_trailing_white_space_on_save": true
+
+
+#### Let it scroll more after the ending line:
+Gives window screen sized extra scrollable area which is kinda cool
+
+    "scroll_past_end": true
+
+
+#### Use snippets for writting shortcuts:
+For writting `console.log()` with `con` + `TAB`.
+
+Open up your `Sublime Text 3` > `Tools` > `New Snippet`. Put this code there
+and save it in given directory:
+
+    <snippet>
+        <content><![CDATA[console.log($1)$0]]></content>
+        <tabTrigger>con</tabTrigger>
+        <tabTrigger>log</tabTrigger>
+        <scope>text.html,source.js</scope>
+        <description>console.log()</description>
+    </snippet>
+
+So on for any more snippet.
+
+
+#### Use Sublime Plugins
+I've made some lists, I'm using frequently. I've made
+[repository](https://github.com/nikoloza/Custom-Sublime-Look) earlier, but
+now I'm gonna put it right here:
+
+##### Recommended packages:
+
+Syntax highlighs:
+* [HTML5](https://sublime.wbond.net/packages/HTML5)
+* [CSS3](https://sublime.wbond.net/browse/authors/y0ssar1an)
+* [Less](https://sublime.wbond.net/packages/LESS)
+* [Jade](https://sublime.wbond.net/packages/Jade)
+* [SASS](https://sublime.wbond.net/packages/Sass)
+* [SCSS](https://sublime.wbond.net/packages/SCSS)
+* [Babel Sublime](https://github.com/babel/babel-sublime) - ES6 Syntax highligh
+* [Better CoffeeScript](https://sublime.wbond.net/packages/Better%20CoffeeScript)
+
+Must have tools:
+* [HTML-CSS-JS Prettify](https://sublime.wbond.net/packages/HTML-CSS-JS%20Prettify)
+* [Emmet](https://sublime.wbond.net/packages/Emmet)
+* [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
+
+Another great tools you can have:
+* [JSHint Gutter](https://packagecontrol.io/packages/JSHint%20Gutter)
+* [GitGutter](https://sublime.wbond.net/packages/GitGutter)
+* [Alignment](https://sublime.wbond.net/packages/Alignment)
+* [AutoPrefixer](https://github.com/sindresorhus/sublime-autoprefixer)
+* [ColorPicker](https://sublime.wbond.net/packages/ColorPicker)
+* [Markdown Preview](https://sublime.wbond.net/packages/Markdown%20Preview)
