@@ -46,9 +46,9 @@ So on for any more snippet.
 
 
 #### Use Sublime Plugins
-I've made some lists, I'm using frequently. I've made
-[repository](https://github.com/nikoloza/Custom-Sublime-Look) earlier, but
-now I'm gonna put it right here:
+I've made some list of plugins, I use frequently. I made the
+repository [Custom-Sublime-Look](https://github.com/nikoloza/Custom-Sublime-Look) earlier, but
+now I'm gonna put it updated right here:
 
 ##### Recommended packages:
 
