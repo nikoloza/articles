@@ -52,7 +52,7 @@ Cintinue adding by your own.
 ===
 
 #### Use Sublime Plugins
-I've made some list of plugins, I use frequently. I made the
+I've created a list of plugins, which I use frequently. I had created the
 repository [Custom-Sublime-Look](https://github.com/nikoloza/Custom-Sublime-Look) earlier, but
 now I'm gonna put it updated right here:
 
