@@ -65,7 +65,7 @@ Syntax highlighs:
 * [Jade](https://sublime.wbond.net/packages/Jade)
 * [SASS](https://sublime.wbond.net/packages/Sass)
 * [SCSS](https://sublime.wbond.net/packages/SCSS)
-* [Babel Sublime](https://github.com/babel/babel-sublime) - ES6 Syntax highligh
+* [Babel Sublime](https://github.com/babel/babel-sublime) - ES6 Syntax highlight
 * [Better CoffeeScript](https://sublime.wbond.net/packages/Better%20CoffeeScript)
 
 Must have tools:
