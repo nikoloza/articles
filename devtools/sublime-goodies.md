@@ -3,6 +3,8 @@
 Introducing **Sublime Text 3** tips and goodies which always helps me to write
 code in very comfortable workspace.
 
+===
+
 #### Exclude node_modules out of Sublime Text 3 searches:
 It will skip searching files in the following list (works for `CMD`+`t` as well)
 
@@ -15,18 +17,21 @@ It will skip searching files in the following list (works for `CMD`+`t` as well)
       "docs"
     ]
 
+===
 
 #### Remove extra whitespaces on save:
 Keep it clean!
 
     "trim_trailing_white_space_on_save": true
 
+===
 
 #### Let it scroll more after the ending line:
 Gives window screen sized extra scrollable area which is kinda cool
 
     "scroll_past_end": true
 
+===
 
 #### Use snippets for writting shortcuts:
 For writting `console.log()` with `con` + `TAB`.
@@ -44,6 +49,7 @@ and save it in given directory:
 
 So on for any more snippet.
 
+===
 
 #### Use Sublime Plugins
 I've made some list of plugins, I use frequently. I made the
