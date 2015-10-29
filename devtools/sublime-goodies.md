@@ -6,7 +6,7 @@ code in very comfortable workspace.
 ===
 
 #### Exclude node_modules out of Sublime Text 3 searches:
-It will skip searching files in the following list (works for `CMD`+`t` as well)
+It will skip searching files from folders from the following array (works for `CMD`+`t` as well)
 
     "folder_exclude_patterns": [
       ".git",
@@ -37,7 +37,7 @@ Gives window screen sized extra scrollable area which is kinda cool
 For writting `console.log()` with `con` + `TAB`.
 
 Open up your `Sublime Text 3` > `Tools` > `New Snippet`. Put this code there
-and save it in given directory:
+and save the file in the given directory by default:
 
     <snippet>
         <content><![CDATA[console.log($1)$0]]></content>
@@ -47,7 +47,7 @@ and save it in given directory:
         <description>console.log()</description>
     </snippet>
 
-So on for any more snippet.
+Cintinue adding by your own.
 
 ===
 
