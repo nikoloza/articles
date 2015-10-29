@@ -8,4 +8,5 @@ For now, please navigate to folders above.
 
 #### Devtools
 
+- [Sublime goodies](http://c.nikoloz.me/dQf4)
 - [How to debug remote iOS device using Chrome devtools](http://c.nikoloz.me/dQf4)
