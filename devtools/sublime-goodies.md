@@ -27,7 +27,7 @@ Keep it clean!
 ===
 
 #### Let it scroll more after the ending line:
-Gives window screen sized extra scrollable area which is kinda cool
+Gives a screen sized extra scrollable area which is kinda cool
 
     "scroll_past_end": true
 
