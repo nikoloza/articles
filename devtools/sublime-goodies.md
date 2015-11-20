@@ -47,7 +47,7 @@ and save the file in the given directory by default:
         <description>console.log()</description>
     </snippet>
 
-Cintinue adding by your own.
+Continue adding by your own.
 
 ===
 
