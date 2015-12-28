@@ -8,5 +8,5 @@ For now, please navigate to folders above.
 
 #### Devtools
 
-- [Sublime goodies for Front-end Developers](http://c.nikoloz.me/0U1h1w3b3n2r)
-- [How to debug remote iOS device using Chrome devtools](http://c.nikoloz.me/dQf4)
+- [Sublime goodies for Front-end Developers](https://github.com/nikoloza/articles/blob/master/devtools/sublime-goodies.md)
+- [How to debug remote iOS device using Chrome devtools](https://github.com/nikoloza/articles/blob/master/devtools/how-to-debug-remote-ios-device-using-chrome-devtools.md)
