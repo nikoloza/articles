@@ -51,6 +51,20 @@ Continue adding by your own.
 
 ===
 
+#### Use beautiful typeface to read your code:
+[Powerline](https://github.com/powerline/fonts) offers several beautiful fonts for free. My favorite is `Droid Sans Mono`. [Hack](https://github.com/chrissimpkins/Hack) is also specially developer for source code.
+
+    "font_face": "Droid Sans Mono for Powerline"
+
+===
+
+#### Bigger line-height might make your code more readable:
+
+    "line_padding_bottom": 2,
+    "line_padding_top": 2
+
+===
+
 #### Use Sublime Plugins
 I've created a list of plugins, which I use frequently. I had created the
 repository [Custom-Sublime-Look](https://github.com/nikoloza/Custom-Sublime-Look) earlier, but
