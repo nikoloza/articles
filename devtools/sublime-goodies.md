@@ -62,6 +62,15 @@ Continue adding by your own.
 
     "line_padding_bottom": 2,
     "line_padding_top": 2
+    
+
+#### Reveal file in sidebar:
+Open `Preferences -> Key Bindings-User` and paste this snippet (or you can change key formula):
+
+    [
+        { "keys": ["ctrl+shift+k"], "command": "reveal_in_side_bar" }
+    ]
+    
 
 ===
 
