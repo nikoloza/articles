@@ -16,7 +16,7 @@ As you may know, we have some keys bindings missing in iTerm, like removing word
   
 #### Clear whole line
 
-- Keys: `⌘`+`Shift`+`⟵(Delete)`
+- Keys: `⌘`+`⟵(Delete)`
 - Action: `Send Hex Code`
   - `0x15`
   
