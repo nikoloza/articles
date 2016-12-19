@@ -1,10 +1,6 @@
-# iTerm additional key bindings
+# iTerm additional (Mac-default) key bindings
 
-First of all, I advice using [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) and [iTerm](https://www.iterm2.com/) as a Mac terminal replacement.
-
-To start, open your iTerm, go to `Preferences > Keys` and then click to `+` button to add new key bindings.
-
-**Note:** you can change key configuration by your taste.
+As you may know, we have some keys bindings missing in iTerm, like removing word, jumping cursor etc. To start, open your iTerm, go to `Preferences > Keys` and then click to `+` button to add new key bindings.
 
 #### Delete whole word
 
