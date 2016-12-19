@@ -1,7 +1,6 @@
-## Sublime goodies for Front-end Developers
+# Sublime goodies for Front-end Developers
 
-Introducing **Sublime Text 3** tips and goodies which always help me to write
-code in very comfortable workspace.
+Introducing **Sublime Text 3** tips and some goodies which always help me to write code in very comfortable workspace.
 
 ===
 
