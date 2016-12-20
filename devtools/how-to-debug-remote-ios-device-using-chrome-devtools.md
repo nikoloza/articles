@@ -55,3 +55,6 @@ It should be like this:
 You'll probably need to enable `Settings > Safari > Advanced > Web Inspector`
 
 For the first time, it'll maybe throw an error that couldn't connect to Safari on device (even if you have `Web Inspector` enabled). Try to remove usb cable and plug it again.
+
+**Note 3:** 
+This article was used and referenced by Paul Irish in official repository README updates [1](https://github.com/google/ios-webkit-debug-proxy/commit/f64f211a262dd0686fbbfb71468d1f6d8f2ae70a), [2](https://github.com/google/ios-webkit-debug-proxy/commit/22d05f7e844ae1e413bb879d5734949c0106c460).
