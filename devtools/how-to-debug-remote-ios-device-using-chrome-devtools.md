@@ -37,9 +37,9 @@ Open Safari on your Simulator, or device first and run (Chrome v45+ tested)
 It will detect your available devices and list them on port `:9221`:
 
 - list of devices here [localhost:9221](http://localhost:9221)
-- fist connected device [localhost:9222](http://localhost:9222)
-- second connected device [localhost:9223](http://localhost:9223)
-- etc...
+    - fist connected device [localhost:9222](http://localhost:9222)
+    - second connected device [localhost:9223](http://localhost:9223)
+    - etc...
 
 **Note:**
 due the error that Chrome does not allow opening the `chrome-devtools://` url
