@@ -1,6 +1,6 @@
 # iTerm additional (Mac-default) key bindings
 
-As you may know, we have some keys bindings missing in iTerm, like removing word, jumping cursor etc. To start, open your iTerm, go to `Preferences > Keys` and then click to `+` button to add new key bindings.
+As you may know, we have some keys bindings missing in iTerm, like jumping cursor through word or removing whole line, etc. I listed some useful bindings to make it working in our iTerm setup. To start, open your iTerm, go to `Preferences > Keys` and then click to `+` button to add new key bindings.
 
 #### Delete whole word
 
