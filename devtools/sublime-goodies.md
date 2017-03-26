@@ -16,6 +16,8 @@ It will skip searching files from folders from the following array (works for `C
       "docs"
     ]
 
+Note the **`"file_exclude_patterns"`** is also available.
+
 ---
 
 #### Remove extra whitespaces on save:
