@@ -2,7 +2,7 @@
 
 Introducing **Sublime Text 3** tips and some goodies which always help me to write code in very comfortable workspace.
 
-===
+---
 
 #### Exclude node_modules out of Sublime Text 3 searches:
 It will skip searching files from folders from the following array (works for `CMD`+`t` as well)
@@ -16,14 +16,14 @@ It will skip searching files from folders from the following array (works for `C
       "docs"
     ]
 
-===
+---
 
 #### Remove extra whitespaces on save:
 Keep it clean!
 
     "trim_trailing_white_space_on_save": true
 
-===
+---
 
 #### Let it scroll more after the ending line:
 Gives a screen sized extra scrollable area which is kinda cool
@@ -48,21 +48,21 @@ and save the file in the given directory by default:
 
 Continue adding by your own.
 
-===
+---
 
 #### Use beautiful typeface to read your code:
 [Powerline](https://github.com/powerline/fonts) offers several beautiful fonts for free. My favorite is `Droid Sans Mono`. [Hack](https://github.com/chrissimpkins/Hack) is also specially developer for source code.
 
     "font_face": "Droid Sans Mono for Powerline"
 
-===
+---
 
 #### Bigger line-height might make your code more readable:
 
     "line_padding_bottom": 2,
     "line_padding_top": 2
 
-===
+---
 
 #### Reveal file in sidebar:
 Open `Preferences -> Key Bindings-User` and paste this snippet (or you can change key formula):
@@ -72,7 +72,7 @@ Open `Preferences -> Key Bindings-User` and paste this snippet (or you can chang
     ]
     
 
-===
+---
 
 #### Use Sublime Plugins
 I've created a list of plugins, which I use frequently. I had created the
