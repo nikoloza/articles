@@ -5,7 +5,7 @@
 After whole night surfing in internet, I've found Google's
 repository about [proxying DevTools for iOS](https://github.com/google/ios-webkit-debug-proxy). They offer `Mobile Safari remote inspector`, you can do it from Safari's developer tab, but if you're **Chrome DevTools** dependent developer like me, you may need to follow this article.
 
-===
+---
 
 ### Installing:
 
@@ -26,7 +26,7 @@ Linux:
     make
     sudo make install
 
-===
+---
 
 ### Running:
 
