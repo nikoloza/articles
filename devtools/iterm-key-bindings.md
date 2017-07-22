@@ -14,12 +14,6 @@ As you may know, we have some keys bindings missing in iTerm, like jumping curso
 - Action: `Send Escape Sequence`
   - Esc + `d`
   
-#### Clear whole line
-
-- Keys: `⌘`+`⟵(Delete)`
-- Action: `Send Hex Code`
-  - `0x15`
-  
 #### Jump cursor to left over whole word
 
 - Keys: `⌥`+`←`
@@ -31,6 +25,12 @@ As you may know, we have some keys bindings missing in iTerm, like jumping curso
 - Keys: `⌥`+`→`
 - Action: `Send Escape Sequence`
   - Esc + `f`
+  
+#### Clear whole line
+
+- Keys: `⌘`+`⟵(Delete)`
+- Action: `Send Hex Code`
+  - `0x15`
   
 #### Jump cursor to line start
 
